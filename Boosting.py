@@ -10,7 +10,9 @@ pytesseract.pytesseract.tesseract_cmd = r"C:\Users\Administrador\AppData\Local\P
 words = [
 	"casa", "vida", "amor", "pato", "gato", "rato", "copo", "lava", "roda", "sopa",
 	"mesa", "piso", "nave", "foca", "mato", "bico", "lago", "boca", "polo", "vela",
-	"limo", "doce", "bolo"
+	"limo", "doce", "bolo", "fogo", "sapo", "lixo", "arco", "fera", "fuga", "telo",
+	"bala", "ruga", "aves", "leve", "fino", "muda", "liso", "tira", "lado", "duro",
+	"rola", "jogo", "mapa", "selo", "bato", "lupa"
 ]
 
 # Define the screen area to capture (example coordinates)
