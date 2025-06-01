@@ -12,7 +12,9 @@ words = [
 	"mesa", "piso", "nave", "foca", "mato", "bico", "lago", "boca", "polo", "vela",
 	"limo", "doce", "bolo", "fogo", "sapo", "lixo", "arco", "fera", "fuga", "telo",
 	"bala", "ruga", "aves", "leve", "fino", "muda", "liso", "tira", "lado", "duro",
-	"rola", "jogo", "mapa", "selo", "bato", "lupa"
+	"rola", "jogo", "mapa", "selo", "bato", "lupa", "olho", "belo", "lobo", "leal",
+	"tela", "jato", "lato", "vazo", "razo", "jogo", "logo", "saia", "raia", "cana",
+	"sebo", "frio", "medo", "galo", "alma", "maca"
 ]
 
 # Define the screen area to capture (example coordinates)
