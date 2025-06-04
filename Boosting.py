@@ -14,7 +14,7 @@ words = [
 	"bala", "ruga", "aves", "leve", "fino", "muda", "liso", "tira", "lado", "duro",
 	"rola", "jogo", "mapa", "selo", "bato", "lupa", "olho", "belo", "lobo", "leal",
 	"tela", "jato", "lato", "vazo", "razo", "jogo", "logo", "saia", "raia", "cana",
-	"sebo", "frio", "medo", "galo", "alma", "maca", "dado", "ruim"
+	"sebo", "frio", "medo", "galo", "alma", "maca", "dado", "ruim", "nojo"
 ]
 
 # Define the screen area to capture (example coordinates)
